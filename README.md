@@ -2,7 +2,7 @@
 
 ## Team Members
 - Ivan Gonzales – Group Leader / Backend Developer  
-- Jesmumd Libar – Frontend  Developer  
+- Jesmumd Krister M. Libar – Frontend  Developer  
 - Mayeoh Barangot – Backend/ Documentation
 - Clarice Pabillaran - Frontend Developer
 ---
