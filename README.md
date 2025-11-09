@@ -1,1 +1,73 @@
-# itcc14-api-project-Ayuda-Besh
+## Project Milestones (AyudaBesh)
+
+## Team Members
+- Ivan Gonzales – Group Leader / Backend Developer  
+- Jesmumd Libar – Frontend  Developer  
+- Mayeoh Barangot – Backend/ Documentation
+- Clarice Pabillaran - Frontend Developer
+---
+
+##Project Milestones
+
+### Milestone 1 (Nov Week 1): Project Setup & API Design
+- **What we'll do:**  
+This week, our team will finalize the AyudaBesh project topic, define the database models for Users, Requests, and Responses, set up the Flask project structure, connect it to MongoDB, and create the initial API documentation outline.  
+
+- **Deliverables:**  
+README.md updated with Problem Statement, Project Description, and Basic Data Models.  
+Create and commit **api.yaml** with planned endpoints.  
+
+- **Checklists:**  
+  - [ ] Hold team meeting to finalize project topic  
+  - [ ] Define database models for Users, Requests, and Responses  
+  - [ ] Create initial api.yaml file with planned endpoints  
+  - [ ] Set up Flask project structure and connect to MongoDB  
+  - [ ] Commit all changes and push to GitHub  
+
+---
+
+### Milestone 2 (Nov Week 2): Implement Basic API Endpoints
+- **What we'll do:**  
+Build basic CRUD endpoints for Users and Requests and test them with Postman.  
+
+- **Deliverables:**  
+Functional endpoints for Users and Requests  
+
+- **Checklists:**  
+  - [ ] Implement User endpoints: create, read, update, delete  
+  - [ ] Implement Request endpoints: create, read, update, delete  
+  - [ ] Test endpoints with Postman  
+  - [ ] Commit & push changes  
+
+---
+
+### Milestone 3 (Nov Week 3): Beginner-Friendly Features
+- **What we'll do:**  
+Add simple authentication and basic search/filter for Requests.  
+
+- **Deliverables:**  
+Login system and search/filter functionality implemented  
+
+- **Checklists:**  
+  - [ ] Implement login with username/password 
+  - [ ] Add search/filter functionality for Requests by type or status  
+  - [ ] Test new features with Postman 
+  - [ ] Commit & push changes  
+
+---
+
+### Milestone 4 (Nov Week 4): Documentation & Final Testing
+- **What we'll do:**  
+Finalize API, write documentation, test everything, and prepare for submission.  
+
+- **Deliverables:**  
+Complete README.md, Postman collection, fully working API  
+
+- **Checklists:**  
+  - [ ] Test all endpoints and fix bugs  
+  - [ ] Complete API documentation in README  
+  - [ ] Prepare Postman collection for submission  
+  - [ ] Final team review  
+  - [ ] Commit & push all final changes  
+
+---
