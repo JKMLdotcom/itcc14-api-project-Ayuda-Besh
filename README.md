@@ -7,8 +7,6 @@
 - Clarice Pabillaran - Frontend Developer
 ---
 
-##Project Milestones
-
 ### Milestone 1 (Nov Week 1): Project Setup & API Design
 - **What we'll do:**  
 This week, our team will finalize the AyudaBesh project topic, define the database models for Users, Requests, and Responses, set up the Flask project structure, connect it to MongoDB, and create the initial API documentation outline.  
